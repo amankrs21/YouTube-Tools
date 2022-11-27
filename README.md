@@ -10,6 +10,12 @@ Playlist should be in the format - https://www.youtube.com/watch?v=WRNQ-McIvoE&l
 ![image](https://user-images.githubusercontent.com/73931949/204152613-aacfb3bf-f8db-4a26-8288-10523e4bd944.png)
 
 
+<!-- In file name Video to Audio -->
+While entering folder location, folder location should be in the form
+    * in linux --> /home/user/Desktop/Videos
+    * in windows --> C://users/desktop/videos
+
+
 please let me know in comments, if any changes is required.
 
 Thanking You :)

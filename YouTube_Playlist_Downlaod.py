@@ -4,7 +4,7 @@ import requests
 try:
     from pytube import YouTube
     import moviepy.editor as mp
-except:
+except ImportError:
     os.system("pip install pytube")
     os.system("pip install movepy")
     from pytube import YouTube

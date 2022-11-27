@@ -11,7 +11,7 @@ Playlist should be in the format - "https://www.youtube.com/watch?v=WRNQ-McIvoE&
 
 
 
-> In file name Video to Audio
+In file name Video to Audio
 While entering folder location, folder location should be in the form
 => in linux --> /home/user/Desktop/Videos
 => in windows --> C://users/desktop/videos

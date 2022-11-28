@@ -1,7 +1,7 @@
-# YouTube-Video-Download
+## YouTube-Video-Download
 You can download any YouTube Video using these Python Script
 
-Make sure your Machine should be connected to the Internet
+# Make sure your Machine should be connected to the Internet
 
 You do not have to import any library manually, python script will automatically download libraries according to their need.
 
@@ -13,12 +13,12 @@ Playlist should be in the format - "https://www.youtube.com/watch?v=WRNQ-McIvoE&
 
 
 
-In file name Video to Audio
+# In file name Video to Audio
 While entering folder location, folder location should be in the form
 => in linux --> /home/user/Desktop/Videos
 => in windows --> C://users/desktop/videos
 
 
 
-please let me know in comments, if any changes is required.
+please suggest any changes if required, if any changes is required.
 Thanking You :)

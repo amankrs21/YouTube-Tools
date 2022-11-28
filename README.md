@@ -1,6 +1,8 @@
 # YouTube-Video-Download
 You can download any YouTube Video using these Python Script
 
+Make sure your Machine should be connected to the Internet
+
 You do not have to import any library manually, python script will automatically download libraries according to their need.
 
 While pasting playlist link, please check playlist link first

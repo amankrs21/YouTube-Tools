@@ -1,5 +1,6 @@
-# YouTube-Video-Download
+# YouTube-Video-Downloader
 You can download any YouTube Video using these Python Script
+You can also download whole playlist at once.
 
 ## Make sure your Machine should be connected to the Internet
 
